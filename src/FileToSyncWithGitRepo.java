@@ -23,4 +23,12 @@ public class FileToSyncWithGitRepo {
 	//Version Commited on master 
 	
 	public int _master_version1; 
+	
+	//Version Commited on F3
+	
+		public int _f3_version1; 
+		
+		//Version Commited on F3 2
+		
+			public int _f3_version2; 
 }
