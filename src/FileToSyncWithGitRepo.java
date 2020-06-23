@@ -8,4 +8,7 @@ public class FileToSyncWithGitRepo {
 	
 	//Third version _in F2
 	public String _thirdField;
+	
+	//Version 1 - avant rebase
+	public int _field_1_BeforeRebase;
 }
