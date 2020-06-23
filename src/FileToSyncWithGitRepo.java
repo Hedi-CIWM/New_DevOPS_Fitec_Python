@@ -5,4 +5,7 @@ public class FileToSyncWithGitRepo {
 	
 	//Second commit 
 	public int _secondField; 
+	
+	//Third version _in F2
+	public String _thirdField;
 }
