@@ -15,4 +15,8 @@ public class FileToSyncWithGitRepo {
 
 	//Version 2 - avant rebase
 	public int _field_2_BeforeRebase;
+	
+
+	//Version 3 - avant rebase
+	public int _field_3_BeforeRebase;
 }
